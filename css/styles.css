@@ -1,4 +1,4 @@
-/*
+/* 
  *
  * CSS written based on SMACSS architecture.
  * To learn more, visit: http://smacss.com/
@@ -229,4 +229,10 @@ section .active_class .landing__container::after {
     background: 'pink';
     color: white;
 
-}
+}  
+
+  
+  .active {
+    background: linear-gradient(to right, #36d1dc, #5b86e5);
+    color: white;
+  }

@@ -99,6 +99,8 @@ for (let item of anchorLinks) { // relitere
 
 // Set sections as active
 
+//Found this solution from https://stackoverflow.com/questions/52025615/vanilla-js-change-active-state-of-links-when-scrolling-refactoring
+
 const links = document.querySelectorAll('.links');
 // const sections = document.querySelectorAll('section');
 
